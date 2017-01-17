@@ -1,0 +1,6 @@
+<h2>Questions & Answers</h2>
+{{new-question saveQuestion="saveQuestion"}}
+<h1>Questions</h1>
+   {{#each model.questions as |question|}}
+   {{question-tile question=question}}
+   {{/each}}

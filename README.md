@@ -1,7 +1,10 @@
-# question
+# questionsAndAnswers
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
+
+## About this application
+This app lets users ask and answer questions. It was build as part of very frustrating Epicodus project given on Friday the 13th when the snow was so deep that Portland closed down and I was stuck inside my cold apartment struggling with all the tiny details and peculiarities of Ember.
 
 ## Prerequisites
 
@@ -16,7 +19,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd question`
+* `cd messageboards`
 * `npm install`
 * `bower install`
 
@@ -39,9 +42,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 

@@ -1,0 +1,19 @@
+{
+  "questions" : [{
+      "author" : "Rafael",
+      "content" : "Why is Ember so frustrating?",
+      "note" : "Ember"
+    }, {
+      "author" : "Jeff Foxworthy",
+      "content" : "How many rednecks does it take to change a light bulb?",
+      "note" : "They have electricity"
+    }, {
+      "author" : "Donald Trump",
+      "content" : "How many stupid Americans does it take to become president?",
+      "note" : "2016"
+    }],
+  "answers" : [{
+    "author" : "Anonymous",
+    "content" : "The answer my friend is blowing in the wind..."
+    }]
+}
